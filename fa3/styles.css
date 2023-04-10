@@ -1,0 +1,34 @@
+div{
+    text-align: center;
+    padding: 20px;
+    margin: 20px 100px 0px 100px;
+}
+#first{
+    margin: 3px 100px 0px 100px;
+    text-align: left; 
+    display:none;
+}
+.firstbox{
+    text-align: center;
+    width: 160px;
+    height: 80x;
+    border: 5px solid black;
+}
+.secondbox{
+    text-align: center;
+    width: 160px;
+    height: 80px;
+    border: 5px solid black;
+}
+.thirdbox{
+    text-align: center;
+    width: 160px;
+    height: 80px;
+    border: 5px solid black;
+}
+#results{
+    display: none;
+}
+h5{
+    text-align: left;
+}
